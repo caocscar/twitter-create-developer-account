@@ -12,6 +12,8 @@ Start|Finish
 ---|---
 ![start screen](img/twitter_developer_acct.png)|![confirmation](img/application_confirmation.png)
 
+You can proceed to the credentials section *only once you have your developer account approved*.
+
 ## Getting Twitter Credentials
 
 Twitter implements OAuth 1.0 as its authentication protocol. You'll need 4 credentials in order to use OAuth and make requests to Twitter's API.
