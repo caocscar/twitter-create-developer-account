@@ -2,7 +2,7 @@
 
 ## Sign Up for a Twitter Account
 - You will need your own Twitter account first. Sign up for one at [twitter.com](twitter.com). You can always delete it afterwards.
-- Go to your Twitter settings https://twitter.com/settings/account. Select 'Mobile' and add your mobile phone to your account. Twitter will send you a confirmation code via text. This is required to create an application.
+- Go to your Twitter settings https://twitter.com/settings/account. Select 'Mobile' and add your mobile phone to your account. Twitter will send you a confirmation code via text. This is required to create an application. There might be additional measures required since I wrote these instructions.
 
 ## Apply for a Twitter Developer Account
 - Go to https://developer.twitter.com/en/apps and create an application. 
