@@ -10,7 +10,7 @@
 
 Start|Finish
 ---|---
-![start screen](img\twitter_developer_acct.png)|![confirmation](img\application_confirmation.png)
+![start screen](img/twitter_developer_acct.png)|![confirmation](img/application_confirmation.png)
 
 ## Getting Twitter Credentials
 
