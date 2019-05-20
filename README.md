@@ -6,7 +6,7 @@
 
 ## Apply for a Twitter Developer Account
 - Go to https://developer.twitter.com/en/apps and create an application. 
-- You will need to apply for a developer account. This is a [new process that started in Summer 2018](https://blog.twitter.com/developer/en_us/topics/tools/2018/new-developer-requirements-to-protect-our-platform.html) which requires you to fill out additional forms including a detailed explanation of what you are going to use the API for. Twitter will need to approve your application. I went through the new process and I got the developer account approved within a business day (although not without pain; it took me 3 attempts to explain my use case which was highly annoying).  
+- You will need to apply for a developer account. This is a [new process that started in Summer 2018](https://blog.twitter.com/developer/en_us/topics/tools/2018/new-developer-requirements-to-protect-our-platform.html) which requires you to fill out additional forms including a detailed explanation of what you are going to use the API for. Twitter will need to approve your application. I went through the new process and I got the developer account approved within a business day (although not without pain; it took me 3 attempts to explain my use case which was highly annoying). I gave them a link to the workshop page (with a umich.edu address) to prove that it is a legit business case.
 
 Start|Finish
 ---|---
